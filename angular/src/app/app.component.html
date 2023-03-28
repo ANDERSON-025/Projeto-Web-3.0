@@ -1,0 +1,36 @@
+<div class="container">
+  <header>
+    <div class="logo">
+      <img src="./assets/logo.svg" alt="StackX">
+    </div>
+  </header>
+  
+  <section>
+    <p *ngIf="lang == 'português'">
+      Olá, meu nome é <strong>Anderson</strong> Lins e eu sou Desenvolvedor Front-end,
+      <strong>Tecnologias que tenho experiência:</strong>
+    </p>
+  
+    <p *ngIf="lang == 'inglês'">
+      Hi, my name is <strong>Anderson</strong> Lins and I'm a Front-end Developer,
+      <strong>Technologies I have experience with:</strong>
+    </p>
+  
+    <p *ngIf="lang == 'espanhol'">
+      Hola, mi nombre es <strong>Anderson</strong> Lins y soy desarrollador front-end,
+      <strong>tecnologías con las que tengo experiencia:</strong>
+    </p>
+  </section>
+
+  <div class="technologies">
+    <ul>
+      <li *ngFor="let tech of techs;">{{ tech }}</li>
+    </ul>
+  </div>
+
+  <footer>
+    <app-language titulo="Português" icone="português" (click)="changeLang('português')" ></app-language>
+    <app-language titulo="Inglês" icone="inglês" (click)="changeLang('inglês')"></app-language>
+    <app-language titulo="Espanhol" icone="espanhol" (click)="changeLang('espanhol')"></app-language>
+  </footer>
+</div>
