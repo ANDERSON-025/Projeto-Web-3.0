@@ -1,25 +1,14 @@
 # Projeto Web 3.0
  
-# Desafio em Angular - Passo a passo
-
-## Instalando o Angular
-
-Para instalar o Angular, utilize o seguinte comando:
-
-<strong>npm install -g @angular/cli</strong>
-
-## Criando novo projeto
-
-Para criar um novo projeto, utilize o seguinte comando:
-
-<strong>ng new ng new (my-app)=>nome do seu projeto</strong>
-
-## Estilização utilizada
-
-<strong>A estilização utilizada é o Sass</strong>
-
-## Rodando o projeto
-
-Esse comando cria um servidor local e disponibiliza um link para acesso no browser.
-
-<strong>ng serve</strong>
+<h1>Desafio em Angular - Passo a passo</h1>
+<h2>Instalando o Angular</h2>
+<p>Para instalar o Angular, utilize o seguinte comando:</p>
+<pre><code>npm install -g @angular/cli</code></pre>
+<h2>Criando novo projeto</h2>
+<p>Para criar um novo projeto, utilize o seguinte comando:</p>
+<pre><code>ng new ng new (my-app)=>nome do seu projeto</code></pre>
+<h2>Estilização utilizada</h2>
+<pre><code>A estilização utilizada é o Sass</code></pre>
+<h2>Rodando o projeto</h2>
+<p>Esse comando cria um servidor local e disponibiliza um link para acesso no browser.</p>
+<pre><code>ng serve</code></pre>
