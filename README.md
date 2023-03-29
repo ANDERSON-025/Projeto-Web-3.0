@@ -1,38 +1,30 @@
-# Projeto Web 3.0
- 
-Desafio em React, Angular e Vue.Js
-Práticas do módulo Web 3.0 - STACKX
+<h1 Projeto Web 3.0 </h1>
 
-    Nesse repositório serão apresentadas 3 aplicações com a proposta de uma Single Page Application (Aplicação em página Única) , porém cada uma com seu conceito em particular.
+<h2 align="center">Desafio em React, Angular e Vue.js</h2>
 
-    "React é uma biblioteca front-end JavaScript de código aberto com foco em criar interfaces de usuário em páginas web." - Documentação
+<p align="center">Práticas do módulo Web 3.0 - STACKX</p>
 
-    "Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações. Angular é uma reescrita completa do AngularJS, feito pela mesma equipe que o construiu." - Documentação
+<p align="center">Nesse repositório serão apresentadas 3 aplicações com a proposta de uma Single Page Application (Aplicação em página Única) , porém cada uma com seu conceito em particular.</p>
 
-    "Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única." - Documentação
+<h3>Tecnologias utilizadas nos projetos</h3>
 
-TECNOLOGIAS UTILIZADAS NOS PROJETOS:
+<ul>
+  <li>Editor de código: Visual Studio Code</li>
+  <li>Versionamento de código: Git</li>
+  <li>Repositório: GitHub</li>
+  <li>Plataforma da rodar o código fora do navegador (browser): Node.JS</li>
+  <li>Editor gráfico: Figma</li>
+  <li>Navegador de Internet: Google Chrome</li>
+  <li>Uso de fontes: Google fonts</li>
+  <li>Gerenciador de pacotes: npm / yarn</li>
+</ul>
 
-    Editor de código:
-        Visual Studio Code
+<p>React é uma biblioteca front-end JavaScript de código aberto que se concentra em criar interfaces de usuário em páginas web.</p> 
 
-    Versionamento de código:
-        Git
+<p>Angular é uma plataforma de aplicativos web de código-fonte aberto e front-end baseada em TypeScript, liderada pela equipe Angular do Google.</p>
 
-    Repositório:
-        GitHub
+<p>Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única.</p>
 
-    Plataforma da rodar o código fora do navegador (browser)
-        Node.JS
+<p>Com essas tecnologias, os projetos são desenvolvidos com eficiência e qualidade, proporcionando uma experiência de usuário satisfatória e atualizada.</p>
 
-    Editor gráfico:
-        Figma
 
-    Navegador de Internet:
-        Google Chrome
-
-    Uso de fontes:
-        Google fonts
-
-    Gerenciador de pacotes:
-        npm / yarn
